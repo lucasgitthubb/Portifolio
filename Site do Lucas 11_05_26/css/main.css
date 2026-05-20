@@ -1,0 +1,19 @@
+body, nav {
+    color: white;
+    background-color: black;
+}
+
+.divimg{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.divimg > img{
+    width: 500px;
+    height: 500px;
+}
+.menu{
+    background-color: black;
+    color: white;
+}
